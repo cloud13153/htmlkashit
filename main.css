@@ -1,0 +1,61 @@
+body{
+	background: aqua;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+h1{
+	color: #800080;
+	text-align: center;
+}
+.sigma{
+	color: navy;
+	font-family: "Times New Roman";
+	font-size: 18px;
+}
+.omega{
+	color: navy;
+	font-family: "Times New Roman";
+	margin-left: 65px;
+	margin-right: 65px;
+	font-size: 16.5px;
+
+}
+h2{
+	color: navy;
+	font-family: "Times New Roman";
+}
+.left{
+	font-family: Arial;
+	font-size: 15px;
+	text-align: left;
+}
+.right{
+	font-family: Arial;
+	font-size: 15px;
+	text-align: right;
+}
+#sekstan{
+	color:#000080;
+	font-style: italic;
+	font-weight: bolder;
+	font-size: 16.5px;
+}
+.top{
+	color: navy;
+	text-align: right;
+	font-style: italic;
+
+}
+#more{
+	text-decoration: underline;
+	color: #009;
+	font-weight: bold;
+	font-style: normal;
+}
+#podval{
+	font-family: "Times New Roman";
+	font-size: 15.5px;
+	color: navy;
+	font-weight: bold;
+	text-align: right;
+}
